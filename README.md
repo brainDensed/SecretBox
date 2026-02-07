@@ -31,18 +31,15 @@ SecretBox is a secure Peer-to-Peer (P2P) messaging application that demonstrates
     cd secretbox
     ```
 
+
 2.  Install dependencies:
     ```bash
-    npm install
-    # or
-    yarn install
-    # or
     pnpm install
     ```
 
 3.  Run the development server:
     ```bash
-    npm run dev
+    pnpm dev
     ```
 
 4.  Open [http://localhost:3000](http://localhost:3000) in your browser.
