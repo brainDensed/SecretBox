@@ -27,7 +27,7 @@ SecretBox is a secure Peer-to-Peer (P2P) messaging application that demonstrates
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/secretbox.git
+    git clone https://github.com/brainDensed/secretbox.git
     cd secretbox
     ```
 
